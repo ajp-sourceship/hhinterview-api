@@ -5,7 +5,7 @@ Has most of the basic requirements from the challenge repo
 What Went on: 
 1. Creation of DB in rds
 2. Front End replicates demo.pngs * is responsive - not seen in video 
-3. Back End w/ Express created that queries db
+3. Back End w/ Asp.net core created that queries db
 4. Tied together
 5. Deployment- 
   ### Front End Successful
