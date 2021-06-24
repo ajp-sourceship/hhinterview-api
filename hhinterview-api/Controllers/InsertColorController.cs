@@ -10,7 +10,6 @@ namespace hhinterview_api.Controllers
     [Route("api/insertColor")]
     public class InsertColorController : ControllerBase
     {
-
         [HttpPost]
         public dynamic InsertColor([FromBody] InsertColorRequest parma)
         {
